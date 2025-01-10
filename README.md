@@ -17,8 +17,8 @@ Find your perfect company match among French startups using AI! This tool analyz
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
-cd company-match-finder
+git clone https://github.com/Nebton/company_evaluator.git
+cd company_evaluator
 ```
 
 2. Create a `.env` file with your OpenAI API key:
